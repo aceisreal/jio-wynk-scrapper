@@ -47,7 +47,7 @@ The script generates a CSV file containing the scraped song data. The CSV file i
 ## Limitations
 * This script relies on the structure and API endpoints of the JioSaavn and Wynk Music websites. Any changes to these websites may break the script.
 * The script assumes a stable internet connection. If there are connection errors, it will display an appropriate error message.
-* The script may not handle all possible edge cases or exceptions. It is recommended to handle exceptions and error conditions based on your specific use case.
+* The script may not handle all possible edge cases or exceptions. It is recommended to handle exceptions and error conditions based on your particular use case.
 
 
 ## Disclaimer
